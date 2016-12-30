@@ -1,4 +1,4 @@
-# 以下是我的照片
+# 以下是我的作品
 ## 1.个人blog：https://github.com/SongJuXin （未完成）
 ## 2.移动端简历：https://songjuxin.github.io/resume_Simba/
 ## 3.仿淘宝首页：https://songjuxin.github.io/iTb/
