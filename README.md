@@ -1,5 +1,5 @@
 # 以下是我的作品
-## 1.个人blog：http://123.57.223.74:29323/about （未完成）
+## 1.个人blog：http://123.57.223.74:29323/ （未完成）
 ## 2.移动端简历：https://songjuxin.github.io/resume_Simba/ （移动端）
 ## 3.仿淘宝首页：https://songjuxin.github.io/iTb/
 ## 4.原创商品展示网站首页：https://songjuxin.github.io/production/
