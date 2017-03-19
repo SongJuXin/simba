@@ -1,5 +1,6 @@
 # 以下是我的作品
 ## 1.个人blog：http://songjuxin.xyz/ 
+  备用：http://59.110.165.148/
 ## 2.移动端简历：https://songjuxin.github.io/resume_Simba/ （移动端）
 ## 3.仿淘宝首页：https://songjuxin.github.io/tb/
 ## 4.别踩白块儿游戏：https://songjuxin.github.io/production/别踩白块.html
